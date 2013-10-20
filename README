@@ -1,0 +1,2 @@
+Creates a hollow square of asterisks of specified size.
+Clearly not the best way to do this. Knocked it up quickly having seen a blog post using an even more inefficient method.
